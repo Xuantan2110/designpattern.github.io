@@ -1,0 +1,6 @@
+T:\1651\Material\MetarialClassLibrary\MetarialClassLibrary\bin\Debug\MetarialClassLibrary.dll
+T:\1651\Material\MetarialClassLibrary\MetarialClassLibrary\bin\Debug\MetarialClassLibrary.pdb
+T:\1651\Material\MetarialClassLibrary\MetarialClassLibrary\obj\Debug\MetarialClassLibrary.csproj.AssemblyReference.cache
+T:\1651\Material\MetarialClassLibrary\MetarialClassLibrary\obj\Debug\MetarialClassLibrary.csproj.CoreCompileInputs.cache
+T:\1651\Material\MetarialClassLibrary\MetarialClassLibrary\obj\Debug\MetarialClassLibrary.dll
+T:\1651\Material\MetarialClassLibrary\MetarialClassLibrary\obj\Debug\MetarialClassLibrary.pdb

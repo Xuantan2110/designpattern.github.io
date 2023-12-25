@@ -1,0 +1,11 @@
+T:\1651\Material\MetarialClassLibrary\MaterialConsoleApp\bin\Debug\MaterialConsoleApp.exe.config
+T:\1651\Material\MetarialClassLibrary\MaterialConsoleApp\bin\Debug\MaterialConsoleApp.exe
+T:\1651\Material\MetarialClassLibrary\MaterialConsoleApp\bin\Debug\MaterialConsoleApp.pdb
+T:\1651\Material\MetarialClassLibrary\MaterialConsoleApp\bin\Debug\MetarialClassLibrary.dll
+T:\1651\Material\MetarialClassLibrary\MaterialConsoleApp\bin\Debug\MetarialClassLibrary.pdb
+T:\1651\Material\MetarialClassLibrary\MaterialConsoleApp\obj\Debug\MaterialConsoleApp.csproj.AssemblyReference.cache
+T:\1651\Material\MetarialClassLibrary\MaterialConsoleApp\obj\Debug\MaterialConsoleApp.csproj.SuggestedBindingRedirects.cache
+T:\1651\Material\MetarialClassLibrary\MaterialConsoleApp\obj\Debug\MaterialConsoleApp.csproj.CoreCompileInputs.cache
+T:\1651\Material\MetarialClassLibrary\MaterialConsoleApp\obj\Debug\MaterialConsoleApp.csproj.CopyComplete
+T:\1651\Material\MetarialClassLibrary\MaterialConsoleApp\obj\Debug\MaterialConsoleApp.exe
+T:\1651\Material\MetarialClassLibrary\MaterialConsoleApp\obj\Debug\MaterialConsoleApp.pdb
